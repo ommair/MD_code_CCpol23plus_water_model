@@ -15,7 +15,7 @@ simulations. This code utilizes a rigid body mechanism implemented through quate
 We have also designed a specialized force field specifically for both rigid and flexible water
 monomers, incorporating explicit 2-body, 3-body, and N-body induction components.
 
-Author of the code //
+Author of the code:
 Ommair Ishaque
 Graduate Student 
 University of Delaware
