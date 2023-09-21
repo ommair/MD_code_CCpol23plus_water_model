@@ -1,0 +1,18 @@
+  tip4p
+  256    nom    -number of molecules
+  4     nsite   -numer of sites in a molecule
+  0      npol    - number of pol centers per molecule
+name     x              y                z           mass(amu)    q    polarizability(au) 
+O   -5.7633166700   -3.7108319200   -5.3576663000   15.994915d0 0.0d0      0.d0
+H   -6.1579417400   -4.5619250300   -5.5477804700   1.007825d0  0.52422    0.d0
+H   -6.4191861100   -3.0736251200   -5.6405702200   1.007825d0  0.52422    0.d0
+M   -5.8753799795   -3.7336486102   -5.4081263187   0.d0       -1.04844    0.d0
+vdw parameters
+6
+at1 at2    eps        sig
+O   O   0.162750d0   3.16435d0
+O   H      0.d0       0.d0
+O   M      0.d0       0.d0
+H   H      0.d0       0.d0
+H   M      0.d0       0.d0
+M   M      0.d0       0.d0
